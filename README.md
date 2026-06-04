@@ -8,7 +8,15 @@
     <strong>Environmental Health Science Graduate | Makerere University</strong><br>
     🌍 Climate Innovator | GIS Enthusiast | AI for Sustainability Advocate
   </p>
+</div>
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  <!-- Social Media Badges -->
   <a href="https://github.com/nuwaemma2-afk">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -18,6 +26,16 @@
   <a href="mailto:nuwaemma2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/your-handle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/your-handle">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
 </div>
 
 ---
